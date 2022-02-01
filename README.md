@@ -2,7 +2,7 @@
 ### Hello, Devs!!
 
 - 🔭 Atualmente estou estagiando na Matos Barreto Distribuidora LTDA =)
-- 🌱 Atualmente estou aprendendo Node.js com Typescript!
+- 🌱 No momento estou aprendendo Node.js com Typescript!
 - 📫 Você pode falar comigo pelo e-mail ou linkedin ( geralmente respondo rápido) e pode conhecer meus projetos já desenvolvidos que estão disponíveis aqui nos repositórios.😊
 
 
