@@ -13,7 +13,7 @@
 
 ### Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
 
 <div>
 <a href="https://github.com/Henriquebgf">
@@ -30,6 +30,6 @@
 <a href="https://instagram.com/henriquebgf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
- 
- <!-- ![Snake animation](https://github.com/Henriquebgf/Henriquebgf/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/Henriquebgf/Henriquebgf/blob/output/github-contribution-grid-snake.svg)
 
