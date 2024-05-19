@@ -1,8 +1,8 @@
 ## Henrique Gomes
 ### Hello, Devs!!
 
-- 🔭 Atualmente estou estagiando na Matos Barreto Distribuidora LTDA =)
-- 🌱 No momento estou aprendendo Node.js com Typescript!
+- 🔭 Atualmente estou atuando como analista de suporte senior na minsait =)
+- 🌱 No momento estou aprendendo Node.js com Typescript e aperfeiçoando ainda mais o Java!
 - 📫 Você pode falar comigo pelo e-mail ou linkedin ( geralmente respondo rápido) e pode conhecer meus projetos já desenvolvidos que estão disponíveis aqui nos repositórios.😊
 
 
